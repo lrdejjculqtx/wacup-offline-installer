@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 WACUP Free Installer** — WACUP (Winamp Community Update Project) is a free Winamp replacement and enhancement project that modernizes Winamp with updated codec support, fixed bugs, and new features while maintaining compatibility with the vast Winamp plugin and skin ecosystem.. Works without internet access, no account required. Full offline installation.
+**💻 WACUP Free Installer** — WACUP (WinAmp Community Update Project) is a free, open-source continuation and enhancement of the classic Winamp media player for Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About WACUP
 
-WACUP (Winamp Community Update Project) is a free Winamp replacement and enhancement project that modernizes Winamp with updated codec support, fixed bugs, and new features while maintaining compatibility with the vast Winamp plugin and skin ecosystem.
+WACUP (WinAmp Community Update Project) is a free, open-source continuation and enhancement of the classic Winamp media player for Windows. Maintaining compatibility with the extensive Winamp plugin ecosystem while adding modern features, WACUP revives the beloved Winamp experience with fixes, improvements, and new capabilities for users who prefer the classic Winamp workflow.
 
 ---
 
 ## ❌ Problem: WACUP is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Winamp Dependency** — Requires original Winamp installation as a base
-- **Winamp Aesthetic** — Classic Winamp interface style not for everyone
-- **Uncertain Future** — Project depends on volunteer community maintenance
+- **Windows Only** — Winamp heritage makes this a Windows-only application
+- **Winamp Nostalgia** — Most valuable for existing Winamp users and plugin owners
+- **Streaming Integration** — Limited modern streaming service support
+- **Plugin Compatibility** — Some older Winamp plugins may have compatibility issues
 
 ---
 
@@ -121,7 +121,7 @@ WACUP (Winamp Community Update Project) is a free Winamp replacement and enhance
 
 ---
 
-**WACUP Free Installer** — WACUP (Winamp Community Update Project) is a free Winamp replacement and enhancement project that modernizes Winamp with updated codec support, fixed bugs, and new features while maintaining compatibility with the vast Winamp plugin and skin ecosystem.. Install without internet connection today!
+**WACUP Free Installer** — WACUP (WinAmp Community Update Project) is a free, open-source continuation and enhancement of the classic Winamp media player for Windows. Install without internet connection today!
 
 <div align="center">
 
